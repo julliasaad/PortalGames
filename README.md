@@ -8,7 +8,6 @@ Setup install
 
 Run
   - bundle install --without production
-let's go!
   - Then start the server with the following command:
   - $ rails s
 That's it! Just go to http://localhost:3000.
